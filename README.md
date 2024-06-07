@@ -28,3 +28,8 @@ Contributions are welcome! If you have any ideas for improvements, bug fixes, or
 
 
 # Enjoy transforming yourself into a demon with this Snapchat-style filter! Have fun, Happy demon filtering! 👻🔥
+
+<video width="600" controls>
+  <source src="Face Filter 2023-12-14 12-45-58.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
