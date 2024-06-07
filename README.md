@@ -1,5 +1,6 @@
 # Demon Snapchat Filter using Face Detection
 This repository contains a fun and spooky Snapchat-style filter that transforms your face into a demon! The filter uses face detection techniques, powered by MediaPipe and OpenCV, to apply red eyes and make smoke come out from your mouth.
+![Demo Video](Face Filter 2023-12-14 12-45-58.mp4)
 # Table of Contents
 -  Features
 -  Usage
